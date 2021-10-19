@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95d25687_002Ddee0_002D4ab4_002Da1b2_002D410e6370ae3c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Schedule_date_using_only_numbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Schedule_date_using_only_numbers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Schedule_date_with_textual_month&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Schedule_date_with_textual_month_and_weekday&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_one_year_ago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_months_ago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_days_ago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_hours_ago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_minutes_ago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_one_minute_ago&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_in_one_minute&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_in_minutes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_in_days&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_in_months&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Has_passed_with_appointment_in_years&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Is_afternoon_appointment_for_early_morning_appointment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Is_afternoon_appointment_for_late_morning_appointment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Is_afternoon_appointment_for_noon_appointment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests.Is_afternoon_appointment_for_early_afternoon_appointment&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bdc46e08_002Daac7_002D4675_002Dbfd2_002D4714824e4bdd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Is_afternoon_appointment_for_late_afternoon_appointment" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7AA21E5E-07A8-058B-46A1-96CD99AD503C::net5.0::AppointmentTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
